@@ -1,0 +1,31 @@
+{
+  "name": "blog-medium",
+  "version": "1.0.0",
+  "description": "belajar membuat kaluklator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "free"
+  ],
+  "author": "aris",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.4.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "yarn": "^0.24.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madebyaris/blog-medium.git"
+  },
+  "bugs": {
+    "url": "https://github.com/madebyaris/blog-medium/issues"
+  },
+  "homepage": "https://github.com/madebyaris/blog-medium#readme"
+}
